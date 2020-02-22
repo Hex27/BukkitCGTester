@@ -1,0 +1,7 @@
+name: BukkitCGTester
+author: Hex_27
+version: 1.0.0
+api-version: 1.15
+description: World Generator
+main: org.bukkitcgtester.main.BukkitCGTester
+load: startup
